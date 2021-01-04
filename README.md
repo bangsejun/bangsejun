@@ -7,4 +7,6 @@ Java, JavaScript, TypeScript, and Rust are the most common, and Ocaml, Haskell, 
 Discord: 빵세준#1111
 
 Most Used Languages : 
+
+
 ![LANG](https://github-readme-stats.vercel.app/api/top-langs/?username=bangsejun&theme=tokyonight)
